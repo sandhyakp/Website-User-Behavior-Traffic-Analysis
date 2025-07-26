@@ -1,0 +1,135 @@
+
+# 📊 Website Traffic Analysis – Project Report
+
+**Analyst:** Sandhya Kondmare
+**Tools Used:** Python (Pandas, Seaborn, Matplotlib), SQL, Excel
+**Dataset:** Google Analytics Website Traffic Export
+**Duration:** Oct 2024 – Mar 2025
+**Objective:** To uncover patterns in user behavior, channel performance, and engagement metrics to improve digital strategy.
+
+---
+
+## 🔍 Objectives & Insights
+
+### **1. Traffic Trends Over Time**
+
+**Objective:** Identify patterns in website sessions and users over time.
+
+**Insight:**
+
+* Website sessions and user counts showed a consistent trend with noticeable peaks on specific dates and hours.
+* These spikes could be attributed to marketing campaigns or content launches.
+* A strong correlation between user count and session count indicates stable user engagement behavior.
+
+**Recommendation:**
+Continue monitoring peak periods to align future campaigns with high-traffic windows for maximum visibility.
+
+---
+
+### **2. Top-Performing Marketing Channel (Users)**
+
+**Objective:** Determine which marketing channel brought the highest number of users.
+
+**Insight:**
+
+* The **Direct** channel brought in the highest number of users, followed closely by **Organic Search**.
+* Channels like **Display** and **Referral** contributed lower traffic volume.
+
+**Recommendation:**
+Double down on SEO and direct channel strategies. For underperforming channels, consider content tailoring and improved targeting.
+
+---
+
+### **3. Channel-Wise Average Engagement Time**
+
+**Objective:** Analyze average engagement time per channel to infer content effectiveness.
+
+**Insight:**
+
+* **Organic Search** and **Email** had the highest average engagement time, suggesting high-quality and intent-driven traffic.
+* **Paid Search** and **Display** showed lower engagement, indicating less user interest or poor landing page experience.
+
+**Recommendation:**
+Focus content development around organic search terms and email marketing. Re-evaluate the ad copy and landing pages for paid traffic.
+
+---
+
+### **4. Engagement Rate by Channel**
+
+**Objective:** Understand how engagement rate varies across different traffic sources.
+
+**Insight:**
+
+* **Organic Search** consistently showed a higher engagement rate.
+* **Social** and **Referral** channels underperformed in engagement despite bringing traffic.
+
+**Recommendation:**
+Enhance the user journey and relevance of content from social and referral channels. A/B test landing pages for better performance.
+
+---
+
+### **5. Engaged Sessions vs Non-Engaged Sessions**
+
+**Objective:** Identify which channels drive more engaged sessions.
+
+**Insight:**
+
+* Calculated engagement rate (Engaged Sessions / Sessions) revealed **Email** and **Organic** as top-performing.
+* **Display** had the lowest engaged session ratio.
+
+**Recommendation:**
+Invest in engagement-based campaigns for email and organic users. Improve targeting and creatives for low-performing channels.
+
+---
+
+### **6. Hourly Channel Performance**
+
+**Objective:** Examine at what times each channel drives the most traffic.
+
+**Insight:**
+
+* **Email** campaigns peaked in early mornings (8–10 AM).
+* **Organic** and **Direct** traffic spiked during working hours (10 AM–4 PM).
+* **Social** showed higher activity during evenings.
+
+**Recommendation:**
+Schedule posts and campaigns to match user behavior:
+
+* Email: early morning
+* Organic: midday
+* Social: evening hours
+
+---
+
+### **7. Correlation Between Sessions & Engagement Rate**
+
+**Objective:** Explore whether high sessions correlate with high engagement.
+
+**Insight:**
+
+* A moderate **positive correlation** was observed — high sessions often aligned with strong engagement.
+* However, some outliers (e.g., Display) had high traffic but poor engagement.
+
+**Recommendation:**
+Prioritize quality of traffic over volume. Review and refine acquisition strategies that generate “empty” traffic.
+
+---
+
+## 📈 Summary
+
+This analysis helped identify:
+
+* The strongest-performing channels for both volume and engagement.
+* Content and timing strategies for various traffic sources.
+* Opportunities to improve underperforming traffic segments.
+
+---
+
+## ✅ Next Steps
+
+* Integrate behavioral segments (new vs. returning users).
+* Drill down by device type and location.
+* Automate weekly traffic dashboards for faster reporting.
+
+---
+
